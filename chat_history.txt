@@ -1,0 +1,2 @@
+HumanMessage(content="I want to track the delivery status of my order #98765.")
+AIMessage(content="Your order #98765 is currently in transit and is expected to be delivered within 2-3 business days.")
